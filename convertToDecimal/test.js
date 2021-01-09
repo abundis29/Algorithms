@@ -1,14 +1,5 @@
 const convertToDecimal = require('./index')
 
-// Input: str = "1100", base = 2
-// Output: 12
-
-// Input: str = "11A", base = 16
-// Output: 282
-
-// Input: str = "123",  base = 8
-// Output: 83
-
 it('Should be Defined', () => {
     expect(convertToDecimal).toBeDefined();
 });

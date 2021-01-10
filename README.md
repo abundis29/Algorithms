@@ -1,7 +1,8 @@
 
 HOW TO RUN THE TESTS.
 
-STEP 1.- INSTALL JEST `npm install -g jest`
+STEP 1.- `Global` INSTALL JEST `npm install -g jest`
+`Local` INSTALL JEST `npm install && npm test`
 
 1. Write a function that addstwonumberswithoutusinganyarithmeticoperators.
         Run Test, `jest addTwoNumbers/test.js`
